@@ -1,82 +1,27 @@
-# Portfolio
+# Portfolio Production — Personal Portfolio Site
 
-> Personal portfolio website showcasing projects and expertise.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Production](https://img.shields.io/badge/Status-Production-10b981?style=for-the-badge)
 
-## Overview
+> **My production portfolio site** — showcase of shipped work, live and maintained.
 
-A modern, responsive portfolio website built with Next.js and Framer Motion, featuring dark mode, smooth animations, and a blog section.
+### Demo
 
-## Features
+![Demo](https://via.placeholder.com/1280x640/0f172a/38bdf8?text=Portfolio+Site+Demo+—+Add+docs/demo.gif)
 
-- **Hero Section** — Animated introduction with typing effect
-- **About Section** — Professional background and skills
-- **Projects Section** — Showcase of featured projects
-- **Research Section** — Technical research and articles
-- **Blog Section** — Technical blog posts
-- **Contact Section** — Contact form with EmailJS integration
-- **Dark Mode** — Toggle between light and dark themes
-- **Smooth Animations** — Framer Motion transitions
-- **Scroll Progress** — Visual scroll indicator
-- **Back to Top** — Smooth scroll to top button
-
-## Tech Stack
-
-- **Framework:** Next.js 14
-- **Language:** TypeScript
-- **Styling:** TailwindCSS
-- **Animations:** Framer Motion
-- **Icons:** Lucide React
-- **Analytics:** Vercel Analytics
-- **Email:** EmailJS
-
-## Quick Start
+### Quickstart
 
 ```bash
-# Clone
 git clone https://github.com/bravforcode/portfolio-production.git
 cd portfolio-production
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open http://localhost:3000
+bun install && bun run dev
 ```
 
-## Project Structure
 
-```
-├── app/
-│   ├── page.tsx          # Home page
-│   ├── layout.tsx        # Root layout
-│   ├── globals.css       # Global styles
-│   ├── api/              # API routes
-│   └── blog/             # Blog pages
-├── components/
-│   ├── layout/           # Navigation, Footer
-│   ├── sections/         # Hero, About, Skills, Projects, Research, Blog, Contact
-│   ├── common/           # ScrollProgress, BackToTop
-│   └── ui/               # Reusable UI components
-├── contexts/             # Theme context
-├── hooks/                # Custom hooks
-├── lib/                  # Utilities
-└── types/                # TypeScript types
-```
+---
 
-## Deployment
+**Phirawit Jitnarong — Strategic Full-Stack & AI Engineer**
 
-This project is optimized for Vercel deployment:
+xme176@gmail.com · 092-551-0427 · [LinkedIn](https://www.linkedin.com/in/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%8D%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-0000393a4) · [Fastwork](https://fastwork.co/user/bravforcode?source=search)
 
-```bash
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
-## License
-
-MIT
+> Hiring for this stack? Let's talk — production hardened, 300k+ users shipped.
